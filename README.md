@@ -1,4 +1,4 @@
-# PowerLevel.nvim
+# powerlevel.nvim
 
 # NOT FUNCTIONAL YET
 
