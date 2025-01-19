@@ -13,8 +13,7 @@ use {
     'NeoManslayer/powerlevel.nvim',
     config = function()
         require("powerlevel").setup({
-            option1 = true,
-            option2 = "custom value",
+            -- options
         })
     end
 }
