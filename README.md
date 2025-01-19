@@ -7,6 +7,7 @@ A Neovim plugin for Markdown todo lists in which you may go super saiyan.
 ## Installation
 
 ### Using `packer.nvim`:
+
 ```lua
 use {
     'NeoManslayer/powerlevel.nvim',
@@ -17,11 +18,16 @@ use {
         })
     end
 }
+```
 
-### Using vim-plug
+### Using `vim-plug`:
 
+```lua
 Plug 'NeoManslayer/powerlevel.nvim'
+```
 
-### Using lazy
+### Using `lazy.nvim`:
 
+```lua
 { 'NeoManslayer/powerlevel.nvim' }
+```
