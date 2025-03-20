@@ -14,7 +14,7 @@ A Neovim plugin for Markdown todo lists in which you may go super saiyan.
 
 ```lua
 use {
-    'NeoManslayer/powerlevel.nvim',
+    'thenickmonaco/powerlevel.nvim',
     config = function()
         require("powerlevel").setup({
             -- options
@@ -26,11 +26,11 @@ use {
 ### Using `vim-plug`:
 
 ```lua
-Plug 'NeoManslayer/powerlevel.nvim'
+Plug 'thenickmonaco/powerlevel.nvim'
 ```
 
 ### Using `lazy.nvim`:
 
 ```lua
-{ 'NeoManslayer/powerlevel.nvim' }
+{ 'thenickmonaco/powerlevel.nvim' }
 ```
